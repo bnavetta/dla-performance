@@ -1,0 +1,8 @@
+.op {
+    padding: 5px;
+    margin: 5px;
+}
+
+.op.active {
+    font-weight: bold;
+}

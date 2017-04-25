@@ -1,0 +1,15 @@
+{
+  "name": "performance",
+  "version": "1.0.0",
+  "description": "DLA1 Performance",
+  "main": "src/index.js",
+  "author": "Ben Navetta <ben.navetta@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+      "start": "node src/index.js"
+  },
+  "dependencies": {
+    "express": "^4.15.2",
+    "socket.io": "^1.7.3"
+  }
+}

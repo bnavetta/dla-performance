@@ -1,0 +1,17 @@
+.App {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    width: 100%;
+    height: 100%;
+}
+
+.AppContent {
+    /*flex: 1 0 auto;*/
+    padding: 20px;
+}
+
+.error {
+    color: red;
+}
